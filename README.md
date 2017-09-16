@@ -3,6 +3,8 @@
 
 Игра предсказывает будущее!
 
-запуск в консоли: ruby magic_ball.rb
+запуск в консоли: **ruby magic_ball.rb**
 
 ["Волшебный Шар" в Википедии](https://ru.wikipedia.org/wiki/Magic_8_ball)
+
+Автор: Максим Козаев
