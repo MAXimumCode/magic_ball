@@ -3,7 +3,9 @@
 
 Игра предсказывает будущее! Что бы начать, придумайте вопрос, и запустите программу!
 
-запуск в консоли: `ruby magic_ball.rb`
+Игра написана на [Ruby](https://www.ruby-lang.org/en/).
+
+Запуск в консоли: `ruby magic_ball.rb`
 
 ["Волшебный Шар" в Википедии](https://ru.wikipedia.org/wiki/Magic_8_ball)
 
